@@ -1,4 +1,5 @@
 workers = 5
+
 workers_all = [
     ['Иван', '1/10/1995', '25000'],
     ['Геннадий', '2/11/1993', '25000'],
@@ -12,7 +13,6 @@ workers_all = [
 #   Name = input("Введите своё имя: ")
 #   BrthDay = input("Введите свой день рождения (День/Месяц/Год): ")
 #   ZarPlt = input("Введите свою заработную плату: "); print("")
-
 #   worker = [Name, BrthDay, ZarPlt]
 #   workers_all.append(worker)
 
